@@ -72,3 +72,5 @@
 # Scripts
 # None at the moment
 
+# FVM Version Cache
+.fvm/
